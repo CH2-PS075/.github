@@ -34,7 +34,7 @@ Our project addresses a common challenge faced by café owners: efficiently disc
 
 | Learning Path      | Tech         | Repository for User Apps|   Repository for Talent Apps |
 | :---------------   | :-------------- |:------| :------|
-| Machine Learning   | Universitas Udayana | [Link ke Repositori Saya](https://github.com/CH2-PS075/CC-API) |  Repository |
+| Machine Learning   | Universitas Udayana | [ML-User Apps](https://github.com/CH2-PS075/ML-TalentHub-User/tree/main) |  [ML-Talent Apps](https://github.com/CH2-PS075/ML-TalentHub-Talent-Apps)  |
 | Cloud Computing    | Universitas Udayana | Universitas Udayana |   Repository |
 | Android Development| Universitas Udayana | Universitas Udayana |  Repository |
 
