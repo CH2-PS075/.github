@@ -39,7 +39,7 @@ Our project addresses a common challenge faced by café owners: efficiently disc
 
 | Learning Path       | Tech                                                               | Repository for User Apps                                                 | Repository for Talent Apps                                              |
 | :------------------ | :----------------------------------------------------------------- | :----------------------------------------------------------------------- | :---------------------------------------------------------------------- |
-| Machine Learning    | Universitas Udayana                                                | [ML-User Apps](https://github.com/CH2-PS075/ML-TalentHub-User/tree/main) | [ML-Talent Apps](https://github.com/CH2-PS075/ML-TalentHub-Talent-Apps) |
+| Machine Learning    | Google Colab, Tensorflow, NumPy, Matplotlib, Pandas | [ML-User Apps](https://github.com/CH2-PS075/ML-TalentHub-User/tree/main) | [ML-Talent Apps](https://github.com/CH2-PS075/ML-TalentHub-Talent-Apps) |
 | Cloud Computing     | NodeJS, ExpressJS, App Engine, Cloud Run, Cloud SQL, Cloud Storage | [Backend User Apps](https://github.com/CH2-PS075/CC-API)                 | [Backend Talent Apps](https://github.com/CH2-PS075/CC-API)              |
 | Android Development | Universitas Udayana                                                | Universitas Udayana                                                      | Repository                                                              |
 
