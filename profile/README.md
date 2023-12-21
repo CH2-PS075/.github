@@ -43,8 +43,6 @@ Our project addresses a common challenge faced by café owners: efficiently disc
 | Cloud Computing     | NodeJS, ExpressJS, App Engine, Cloud Run, Cloud SQL, Cloud Storage | [Backend User Apps](https://github.com/CH2-PS075/CC-API)                 | [Backend Talent Apps](https://github.com/CH2-PS075/CC-API)              |
 | Android Development | Universitas Udayana                                                | Universitas Udayana                                                      | Repository                                                              |
 
-## Requirement
-
 ## Fork Repository
 
 If you want to bring your unique touch to our project, forking is your magical gateway. By forking repository, you're creating a personal space on your personal GitHub account to experient, enhance, and mold the project to fit your vision without affecting the original project. If you want to fork this repository, you can click on the "Fork" button at the top right corner of this repository's page. </br>
