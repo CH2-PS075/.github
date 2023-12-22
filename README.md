@@ -56,7 +56,7 @@ git clone --branch main https://github.com/CH2-PS075/TalentHub-Mobile.git
 ```
 For clone talent apps  
 ```
-git clone --branch main https://github.com/CH2-PS075/TalentHub-Mobile.git
+git clone --branch main https://github.com/CH2-PS075/TalentHub-Mitra-Mobile.git
 ```
 
 
