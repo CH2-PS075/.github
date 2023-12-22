@@ -57,7 +57,7 @@ Clone repository is used to explore and contribute to the repository. By cloning
 For clone user apps
 
 ```
-git clone --branch main https://github.com/CH2-PS075/TalentHub-Mobile.git
+git clone --branch rafi https://github.com/CH2-PS075/TalentHub-Mobile.git
 ```
 
 For clone talent apps
