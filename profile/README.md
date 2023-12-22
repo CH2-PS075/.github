@@ -41,7 +41,7 @@ Our project addresses a common challenge faced by café owners: efficiently disc
 | :------------------ | :----------------------------------------------------------------- | :----------------------------------------------------------------------- | :---------------------------------------------------------------------- |
 | Machine Learning    |  Python, Jupyter Notebook, Tensorflow, NumPy, Matplotlib, Pandas | [ML-User Apps](https://github.com/CH2-PS075/ML-TalentHub-User/tree/main) | [ML-Talent Apps](https://github.com/CH2-PS075/ML-TalentHub-Talent-Apps) |
 | Cloud Computing     | NodeJS, ExpressJS, App Engine, Cloud Run, Cloud SQL, Cloud Storage | [Backend User Apps](https://github.com/CH2-PS075/CC-API)                 | [Backend Talent Apps](https://github.com/CH2-PS075/CC-API)              |
-| Android Development | Universitas Udayana                                                | Universitas Udayana                                                      | Repository                                                              |
+| Android Development | Kotlin, User Interface, Android Architecture Component, MVVM Design Patterns | [Android User Apps](https://github.com/CH2-PS075/TalentHub-Mobile)                                                        | [Android Talent Apps](https://github.com/CH2-PS075/TalentHub-Mitra-Mobile)                                                              |
 | Combination | Flask, Cloud Run          | [Model Chatbot](https://github.com/CH2-PS075/Model-chatbot)   |[Model Validation Face](https://github.com/CH2-PS075/ML-PREDICTION-MODEL)                                                             |
 ## Fork Repository
 
